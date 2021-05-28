@@ -2,6 +2,10 @@
 GlobeQuant release site
 
 
+## 1.0.5
+* Option for calculating median for all three groups
+* Save/load result support
+
 ## 1.0.4
 * Support multiple fractions
 * Protein analysis of Signal Response Factor
