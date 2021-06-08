@@ -1,6 +1,9 @@
 # GlobeQuant
 GlobeQuant release site
 
+## 1.0.6
+* Using combination of top N peptides for finding the best CV value
+* Export excel format for each protein
 
 ## 1.0.5
 * Option for calculating median for all three groups
