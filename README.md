@@ -1,6 +1,11 @@
 # GlobeQuant
 GlobeQuant release site
 
+## 1.0.7
+* Added "Export CV values"
+* CV Threshold during process
+* Fixed parameters
+
 ## 1.0.6
 * Using combination of top N peptides for finding the best CV value
 * Export excel format for each protein
