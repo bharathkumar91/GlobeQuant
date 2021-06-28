@@ -1,6 +1,12 @@
 # GlobeQuant
 GlobeQuant release site
 
+## 1.0.8
+* 10% CV threshold by default
+* Allows users CV threshold range 1 ~ 20%
+* Excluding only 1 peptide detected option
+* Easy to change the target species peptides by click
+
 ## 1.0.7
 * Added "Export CV values"
 * CV Threshold during process
